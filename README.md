@@ -18,7 +18,7 @@
 
 ## Tecnologias:
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,postgresql,vscode,git,github&theme=dark" />
 
 ## Sobre mim:
 
