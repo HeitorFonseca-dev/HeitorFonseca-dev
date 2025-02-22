@@ -1,13 +1,10 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
-
+<!-- Stats with total commits, PRs, and Issues -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px" />
-
-<div><br />
 
 ## Tecnologias:
 
@@ -29,3 +26,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+### Total de commits e outras métricas
+
+Aqui você pode colocar uma representação das estatísticas do seu GitHub, utilizando um **badge** que mostra o total de commits:
+
+```markdown
+![Total Commits](https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&count_private=true&show_icons=true&hide=prs&theme=radical)
