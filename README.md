@@ -1,37 +1,75 @@
-<!-- Stats with total commits, PRs, and Issues -->
+<h1 align="center">Olá, eu sou Heitor Fonseca 👋</h1>
+
+<p align="center">
+  Desenvolvedor Backend focado em <strong>Node.js</strong>, <strong>TypeScript</strong> e construção de APIs escaláveis.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Backend
+- 🎯 Focado em APIs REST, arquitetura de aplicações e bancos de dados relacionais
+- 📚 Evoluindo para me tornar um desenvolvedor Full Stack
+- 🎮 Curto jogos, tecnologia e desenvolvimento de software
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mysql,redis,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
 <div align="center">
   <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0000&cache_seconds=1800"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800"
   />
-
   <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&title_color=80F7D4&text_color=ffffff&bg_color=0d1117&border_color=0000&cache_seconds=1800"
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorFonseca-dev&theme=dark&background=00000000&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&border=30363d"
   />
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
-## Tecnologias:
+## 📌 Principais conhecimentos
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,postgres,vscode,git,github&theme=dark" />
+- Node.js
+- TypeScript
+- Express
+- NestJS
+- PostgreSQL
+- MySQL
+- Redis
+- Git e GitHub
 
-## Sobre mim:
+---
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Olá" width="25" height="25" /> Olá, meu nome é Heitor Fonseca e eu sou Desenvolvedor Backend. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é me tornar um desenvolvedor Full Stack. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Dev" width="25" height="25" /> Minhas principais stacks são TypeScript, Node.js com Express, NestJS, SQL, PostgreSQL e Redis. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Chat" width="25" height="25" /> Se você curte jogos e tecnologia, fala comigo!
+## 📫 Contato
 
-<br />
+<p>
+  <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Heitor%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
-## Para me contatar:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+</p>
