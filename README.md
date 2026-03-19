@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:heitorr.fonseca@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
