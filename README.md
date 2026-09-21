@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=180&section=header&text=Heitor%20Ramos%20Fonseca&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18&v=2" width="100%"/>
+# Heitor Ramos Fonseca
+
+**Desenvolvedor Backend** &nbsp;|&nbsp; Node.js & TypeScript
 
 <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -58,4 +60,6 @@ Desenvolvedor Back-end de **Camaçari - BA**, com foco em **Node.js**, **TypeScr
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+---
+
+<p align="center"><sub>Feito com 💻 por Heitor Ramos Fonseca</sub></p>
