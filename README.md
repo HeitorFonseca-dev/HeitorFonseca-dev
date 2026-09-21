@@ -40,7 +40,7 @@ Desenvolvedor Back-end de **Camaçari - BA**, com foco em **Node.js**, **TypeScr
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-heitorramos-projects.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&count_private=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats-heitorramos-projects.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true&cache_seconds=1800" />
   <img height="165em" src="https://github-readme-stats-heitorramos-projects.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&theme=transparent&title_color=80F7D4&text_color=c9d1d9&border_color=30363d&count_private=true&cache_seconds=1800" />
 </p>
 
