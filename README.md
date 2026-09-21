@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=180&section=header&text=Heitor%20Ramos%20Fonseca&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=180&section=header&text=Heitor%20Ramos%20Fonseca&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18&v=2" width="100%"/>
 
 <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,32 +37,15 @@ Desenvolvedor Back-end de **Camaçari - BA**, com foco em **Node.js**, **TypeScr
 
 <br/>
 
-### 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/HeitorFonseca-dev/gestao-ecommerce">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorFonseca-dev&repo=gestao-ecommerce&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d" />
-  </a>
-  <a href="https://github.com/HeitorFonseca-dev/Target-Sistemas">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorFonseca-dev&repo=Target-Sistemas&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d" />
-  </a>
-</p>
-
-<br/>
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&count_private=true&cache_seconds=1800" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&theme=transparent&title_color=80F7D4&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&count_private=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&theme=transparent&title_color=80F7D4&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorFonseca-dev&theme=dark&background=00000000&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&border=30363d" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeitorFonseca-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://streak-stats.demolab.com/?user=HeitorFonseca-dev&theme=dark&background=00000000&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&border=30363d" />
 </p>
 
 <br/>
