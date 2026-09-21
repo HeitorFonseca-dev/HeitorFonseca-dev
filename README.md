@@ -1,75 +1,78 @@
-<h1 align="center">Olá, eu sou Heitor Fonseca 👋</h1>
-
-<p align="center">
-  Desenvolvedor Backend focado em <strong>Node.js</strong>, <strong>TypeScript</strong> e construção de APIs escaláveis.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:heitorr.fonseca@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor Backend
-- 🎯 Focado em APIs REST, arquitetura de aplicações e bancos de dados relacionais
-- 📚 Evoluindo para me tornar um desenvolvedor Full Stack
-- 🎮 Curto jogos, tecnologia e desenvolvimento de software
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mysql,redis,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 Estatísticas
-
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorFonseca-dev&theme=dark&background=00000000&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&border=30363d"
-  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=180&section=header&text=Heitor%20Ramos%20Fonseca&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20TypeScript&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:heitorr.fonseca@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/heitorrfonseca">
+  <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=HeitorFonseca-dev&style=for-the-badge&color=9d00ff&label=Visualiza%C3%A7%C3%B5es+do+perfil" />
+
 </div>
 
----
+<br/>
 
-## 📌 Principais conhecimentos
+### 👋 Sobre mim
 
-- Node.js
-- TypeScript
-- Express
-- NestJS
-- PostgreSQL
-- MySQL
-- Redis
-- Git e GitHub
+Desenvolvedor Back-end de **Camaçari - BA**, com foco em **Node.js**, **TypeScript** e construção de **APIs REST** escaláveis. Trabalho com Express, NestJS e bancos relacionais (PostgreSQL/MySQL), e venho evoluindo em direção ao Full Stack.
 
----
+- 🔭 Focado em arquitetura de aplicações, APIs REST e bancos de dados relacionais
+- 🌱 Evoluindo para Full Stack
+- 🎮 Curto jogos, tecnologia e desenvolvimento de software
+- 📍 Camaçari, Bahia — Brasil
 
-## 📫 Contato
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Heitor%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mysql,redis,git,github,html,css,vscode&theme=dark" />
+</p>
+
+<br/>
+
+### 📌 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/HeitorFonseca-dev/gestao-ecommerce">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorFonseca-dev&repo=gestao-ecommerce&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d" />
+  </a>
+  <a href="https://github.com/HeitorFonseca-dev/Target-Sistemas">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorFonseca-dev&repo=Target-Sistemas&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d" />
   </a>
 </p>
 
----
+<br/>
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HeitorFonseca-dev&show_icons=true&theme=transparent&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&border_color=30363d&count_private=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFonseca-dev&layout=compact&theme=transparent&title_color=80F7D4&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorFonseca-dev&theme=dark&background=00000000&ring=80F7D4&fire=9d00ff&currStreakLabel=80F7D4&border=30363d" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HeitorFonseca-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+<br/>
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heitor-ramos-6b42aa1b9/">
+    <img src="https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
